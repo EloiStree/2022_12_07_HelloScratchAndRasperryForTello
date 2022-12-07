@@ -1,4 +1,4 @@
-# 2022_12_07_HelloTello
+# Hello Tello
 
 Exploration of how to control a drone Tello from raspberry PI
 
