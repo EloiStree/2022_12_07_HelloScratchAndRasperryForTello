@@ -90,10 +90,27 @@ Cette application vous permet de controller votre drone depuis Android.
 # RTFM
 - Le manuel utilisateur du Tello: https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20User%20Manual%20v1.4.pdf
 - Le manuel pour développeur Tello: https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf
+  - Démo donné par le manuel en Python: https://dl-cdn.ryzerobotics.com/downloads/tello/20180222/Tello3.py
 
+## Command principale
+![image](https://user-images.githubusercontent.com/20149493/207014496-8456008e-52d0-4ee3-adac-7477cc12b7e2.png)
+![image](https://user-images.githubusercontent.com/20149493/207014572-0a8b4bfc-701b-44fd-9ce3-b3a747c94447.png)
+![image](https://user-images.githubusercontent.com/20149493/207014069-d56400e2-dddd-4abb-943a-eacfa1b98069.png)
+
+Ne fonction que si le drone à des coordonnées X,Y,Z:
+![image](https://user-images.githubusercontent.com/20149493/207014778-a90e873d-4a8f-46d4-a893-1754401d71d4.png)
+
+Établir une communication avec le drone:
+![image](https://user-images.githubusercontent.com/20149493/207015485-843814cd-b3ed-4840-ba24-f99965b26553.png)
 
 
 # Code online
 
 - Controllez le Tello avec Android ou C#
   - https://github.com/Kragrathea/TelloLib 
+- Code qui englobe TelloLib dans Unity (Attention fait par un amateur)
+  - https://github.com/comoc/TelloForUnity  
+- Video et code d'un Youtuber connu dans la VR pour controller un drone
+  - Video: https://youtu.be/E45TzK176IU
+  - Code:  https://github.com/dilmerv/OculusPassthroughDrone
+  - Autre video sur le sujet: 
