@@ -33,7 +33,7 @@ Attention que le drone à une mise en veille. Après N minutes sans commandes re
 
 ### Juste pour jouer
 Mobile: 
-- Tello : Vous permet de faire volez le Tello, de prendre des photos et vidéos.
+- Tello : Vous permet de faire volez le Tello, de prendre des photos et vidéos.  
 [![image](https://user-images.githubusercontent.com/20149493/207022258-b3aa5dbf-c96e-4600-bc99-92b68e511657.png)](https://www.dji.com/be/downloads/djiapp/tello)  
 Download [iOs](https://apps.apple.com/app/tello/id1330559633) [Android](https://service-adhoc.dji.com/download/app/android/ba88a046-6f7e-4cbb-a969-27851eb4bbf5): https://www.dji.com/be/downloads/djiapp/tello
 
@@ -62,7 +62,7 @@ Window:
 - Unity 3D: [Code GitHub](https://github.com/comoc/TelloForUnity) À l'aide d'un code fournit sur internet vous pouvez programmer avec du code réel si vous êtes dévelopeur de métier. Plus dans la partie avancée du cours
   - Video: https://www.youtube.com/watch?v=dQ8mZ0Q0YHs
 
-## Les comamndes principales
+## Les commandes principales
 
 Lors d'une utilisation d'un Drone en non FPV, il n'y a pas énormément de commande:
 - Yaw, Rall, Pitch, Throttle, Armed ,Take Off, Land.
