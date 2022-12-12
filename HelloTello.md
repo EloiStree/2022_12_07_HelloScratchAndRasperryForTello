@@ -56,10 +56,18 @@ Window:
 
 Lors d'une utilisation d'un Drone en non FPV, il n'y a pas énormément de commande:
 Yaw, Rall, Pitch, Throttle, Armed ,Take Off, Land.
-- Yaw:  Tourner de gauches à droites
-- Pitch: Incliner vers l'avant et l'arriègre
+
 - Throttle: Montez et descendre 
   - Augment/Diminue la poussée de tout les moteurs
+- Pitch: Incliner vers l'avant et l'arriègre
+  - Diminue la rotation des deux monteurs avant ou arrières
+- Roll: Incliner vers la gauche et la droite
+  - Diminute la rotation des deux moteurs de gauches ou de droites
+- Yaw: Tourner de gauches à droites
+  - Change la rotation des moteurs en diagonales
+
+![image](https://user-images.githubusercontent.com/20149493/207021135-4d1ac17d-a970-43b2-875c-3bc77c583f46.png)
+
 
 
 ### Les moteurs derrières ces commandes
